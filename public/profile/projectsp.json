@@ -75,6 +75,89 @@
                 "Unity",
                 "WebGL"
             ]
+        },
+        {
+            "image": "images/projects/balance-the-ball.png",
+            "title": "Balance The Ball",
+            "bodyText": "- In this casual game you have a red ball and you have balance it on a seesaw.\n - Developed in Cocos2d and Cpp and used Android studio.",
+            "links": [
+                {
+                    "text": "Playstore",
+                    "href": "https://play.google.com/store/apps/details?id=com.rubycs.balancetheball"
+                }
+            ],
+            "tags": [
+                "Cocos2dx",
+                "Cpp",
+                "Android"
+            ]
+        },
+        {
+            "image": "images/projects/reverse-bird-gif.gif",
+            "title": "Inverted Flappy Bird",
+            "bodyText": "- Flappy Bird X TENET ?? \n - Just a Flappy Bird clone or something more.",
+            "links": [
+                {
+                    "text": "Itch.io",
+                    "href": "https://souvik-2000.itch.io/reverse-flying-bird"
+                }
+            ],
+            "tags": [
+                "Cocos2dx",
+                "Cpp",
+                "Android Studio"
+            ]
+        },
+        {
+            "image": "images/projects/clones-gif.gif",
+            "title": "Clones",
+            "bodyText": "- Clones of popular games made with Unity.",
+            "links": [
+                {
+                    "text": "Asteroids GitHub",
+                    "href": "https://github.com/Souvik61/Asteroids-Clone"
+                },
+                {
+                    "text": "Asteroids Itch.io",
+                    "href": "https://souvik-2000.itch.io/asteroids-clone"
+                },
+                {
+                    "text": "Breakout GitHub",
+                    "href": "https://github.com/Souvik61/Breakout_Clone"
+                },
+                {
+                    "text": "Breakout Itch.io",
+                    "href": "https://souvik-2000.itch.io/breakout-clone"
+                },
+                {
+                    "text": "Pong GitHub",
+                    "href": "https://github.com/Souvik61/PONG-Clone"
+                }
+            ],
+            "tags": [
+                "Unity",
+                "C#"
+            ]
+        },
+        {
+            "image": "images/projects/pic06.jpg",
+            "title": "Miscellaneous",
+            "bodyText": "- Various programming projects and tools i have made.",
+            "links": [
+                {
+                    "text": "Booth's algorithm visualizer",
+                    "href": "https://github.com/Souvik61/booth-s-algo-visualization-in-cmd"
+                },
+                {
+                    "text": "A port for box2d in cocos2d-x",
+                    "href": "https://github.com/Souvik61/NewProject_5"
+                }
+            ],
+            "tags": [
+                "Python",
+                "Cocos2dx",
+                "C++"
+            ]
         }
     ]
 }
