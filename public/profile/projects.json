@@ -1,60 +1,50 @@
 {
     "projects": [
         {
-            "image": "images/projects/base-defence-gif.gif",
-            "title": "Base Defence",
-            "bodyText": "- A Top-down RTS game made with Unity.\n - Developed a top down RTS game based on Age Of War in Unity.\n - Use of Finite State Machines (FSM) in Enemy AI.\nUse of virtual currency to buy Tanks and Artilleries and enemy wave system.",
+            "image": "images/projects/Horse.png",
+            "title": "Equestriad World Tour",
+            "bodyText": "- Equestriad World Tour is a thrilling horse-riding adventure where you compete in show-jumping, dressage, and cross-country events.\n - Roles:\n - Maintaining and fixing bugs of a game in production.\n - Conducted rigourous game testing, identifying and resolving and closing 50+ github tickets.\n - Updating seasonal pass/items for the game",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "text": "Playstore",
+                    "href": "https://play.google.com/store/apps/details?id=com.equusports.equestriad&hl=en"
                 }
             ],
             "tags": [
                 "Unity",
                 "C#",
-                "Github"
+                "Playfab"
             ]
         },
         {
-            "image": "images/projects/shape-editor-gif.gif",
-            "title": "Shape Editor",
-            "bodyText": "- Program to create, edit and save shape vertices data. with C++ and Cocos2dx Box2d framework.\n - Used Matrix operations to manipulate vertices of shapes.",
+            "image": "images/projects/bus-escape-gif.gif",
+            "title": "Jam Escape",
+            "bodyText": "- JamEscape is a vibrant and addictive logic-based puzzle game that challenges players to guide buses out of gridlocked parking lots. This project was build for the gaming portal PlayzHub.\n - Roles:\n - Developed the core gameplay logic according to GDD.\n - Polished and refined controls for better gameplay experience.\n - Done unit testing.\n - Added code for PlayzHub platform analytics.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/Souvik61/ShapeEditor"
+                    "text": "Link",
+                    "href": "https://www.playzhub.com/game/Jam-Escape"
                 }
             ],
             "tags": [
-                "Cocos2dx",
-                "Cpp",
-                "Box2d",
-                "Simulation"
+                "Unity",
+                "C#"
             ]
         },
         {
-            "image": "images/projects/screenshot-spaceshooter.jpg",
-            "title": "Space Shooter",
-            "bodyText": "- A modified version of Unity Multiplayer Tutorial\n - This is a modified/remixed version of the 2D Space Shooter Sample created by Unity.\n - With added features like:\n -Play in a LAN Party.\n - Players can play from both Android/PC.\n - Auto Local IP detection.\n - Two types of connection modes.",
+            "image": "images/projects/matchitright-gif.gif",
+            "title": "Match It Right",
+            "bodyText": "- Match it Right is a fun and colorful match-3 puzzle game where you clean up a messy house by matching three identical items. With useful boosters, limited space, and a ticking clock, it's a fast-paced challenge perfect for players 16 and up.\n - This project was build for the gaming portal PlayzHub.\n - Roles:\n - Developed the game from scratch.\n - Did all the unit tests.\n - Used addressables to reduce initial load times.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/Souvik61/SpaceShooter"
-                },
-                {
-                    "text": "Play",
-                    "href": "https://souvik-2000.itch.io/spaceshooter"
+                    "text": "Link",
+                    "href": "https://www.playzhub.com/game/Match-It-Right"
                 }
             ],
             "tags": [
                 "Unity",
                 "C#",
-                "Netcode"
+                "Addressables"
             ]
         },
         {

@@ -1,7 +1,7 @@
 {
     "projects": [
         {
-            "image": "images/projects/base-defence-gif.gif",
+            "image": "images/projects/starwars-gif.gif",
             "title": "Star Wars Scene",
             "bodyText": "- A StarWars demo scene I made in UnrealEngine.",
             "links": [
