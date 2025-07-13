@@ -2,6 +2,24 @@
     "projects": [
         {
             "image": "images/projects/base-defence-gif.gif",
+            "title": "Star Wars Scene",
+            "bodyText": "- A StarWars demo scene I made in UnrealEngine.",
+            "links": [
+                {
+                    "text": "Github",
+                    "href": "https://github.com/mayankagarwal09/Caaring"
+                },
+                {
+                    "text": "Youtube",
+                    "href": "https://www.youtube.com/watch?v=8_RKNFTl7ro"
+                }
+            ],
+            "tags": [
+                "UnrealEngine"
+            ]
+        },
+        {
+            "image": "images/projects/base-defence-gif.gif",
             "title": "Base Defence",
             "bodyText": "- A Top-down RTS game made with Unity.\n - Developed a top down RTS game based on Age Of War in Unity.\n - Use of Finite State Machines (FSM) in Enemy AI.\nUse of virtual currency to buy Tanks and Artilleries and enemy wave system.",
             "links": [
