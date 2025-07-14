@@ -44,7 +44,16 @@
                 {
                     "icon": "images/skills/icon-unreal.png",
                     "title": "Unreal Engine"
+                },
+                {
+                    "icon": "images/skills/playfab.png",
+                    "title": "Playfab"
+                },
+                {
+                    "icon": "images/skills/photon.png",
+                    "title": "Photon"
                 }
+
             ]
         },
         {

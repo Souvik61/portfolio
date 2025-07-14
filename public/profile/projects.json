@@ -46,25 +46,6 @@
                 "C#",
                 "Addressables"
             ]
-        },
-        {
-            "image": "images/projects/crazy-cops-gif.gif",
-            "title": "Crazy Cops",
-            "bodyText": "- Top-down car game where you have to outrun the cops.\n - I was responsible for the Car controller, Enemy AI, Tilemaps.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Souvik61/Crazy-Cops"
-                },
-                {
-                    "text": "Play",
-                    "href": "https://souvik-2000.itch.io/crazy-cops"
-                }
-            ],
-            "tags": [
-                "Unity",
-                "WebGL"
-            ]
         }
     ]
 }
