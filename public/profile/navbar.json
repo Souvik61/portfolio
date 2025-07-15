@@ -26,8 +26,12 @@
             "href": "/experience"
         },
         {
-            "title": "Projects",
+            "title": "Professional Projects",
             "href": "/projects"
+        },
+        {
+            "title": "Personal Projects",
+            "href": "/projectsp"
         },
         {
             "title": "Resume",

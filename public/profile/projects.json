@@ -1,136 +1,29 @@
 {
     "projects": [
         {
-            "image": "images/projects/base-defence-gif.gif",
-            "title": "Base Defence",
-            "bodyText": "- A Top-down RTS game made with Unity.\n - Developed a top down RTS game based on Age Of War in Unity.\n - Use of Finite State Machines (FSM) in Enemy AI.\nUse of virtual currency to buy Tanks and Artilleries and enemy wave system.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
-                }
-            ],
-            "tags": [
-                "Unity",
-                "C#",
-                "Github"
-            ]
-        },
-        {
-            "image": "images/projects/shape-editor-gif.gif",
-            "title": "Shape Editor",
-            "bodyText": "- Program to create, edit and save shape vertices data. with C++ and Cocos2dx Box2d framework.\n - Used Matrix operations to manipulate vertices of shapes.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Souvik61/ShapeEditor"
-                }
-            ],
-            "tags": [
-                "Cocos2dx",
-                "Cpp",
-                "Box2d"
-            ]
-        },
-        {
-            "image": "images/projects/screenshot-spaceshooter.jpg",
-            "title": "Space Shooter",
-            "bodyText": "- A modified version of Unity Multiplayer Tutorial\n - This is a modified/remixed version of the 2D Space Shooter Sample created by Unity.\n - With added features like:\n -Play in a LAN Party.\n - Players can play from both Android/PC.\n - Auto Local IP detection.\n - Two types of connection modes.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Souvik61/SpaceShooter"
-                },
-                {
-                    "text": "Play",
-                    "href": "https://souvik-2000.itch.io/spaceshooter"
-                }
-            ],
-            "tags": [
-                "Unity",
-                "C#",
-                "Netcode"
-            ]
-        },
-        {
-            "image": "images/projects/crazy-cops-gif.gif",
-            "title": "Crazy Cops",
-            "bodyText": "- Top-down car game where you have to outrun the cops.\n - I was responsible for the Car controller, Enemy AI, Tilemaps.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Souvik61/Crazy-Cops"
-                },
-                {
-                    "text": "Play",
-                    "href": "https://souvik-2000.itch.io/crazy-cops"
-                }
-            ],
-            "tags": [
-                "Unity",
-                "WebGL"
-            ]
-        },
-        {
-            "image": "images/projects/balance-the-ball.png",
-            "title": "Balance The Ball",
-            "bodyText": "- In this casual game you have a red ball and you have balance it on a seesaw.\n - Developed in Cocos2d and Cpp and used Android studio.",
+            "image": "images/projects/Horse.png",
+            "title": "Equestriad World Tour",
+            "bodyText": "- Equestriad World Tour is a thrilling horse-riding adventure where you compete in show-jumping, dressage, and cross-country events.\n - Roles:\n - Maintaining and fixing bugs of a game in production.\n - Conducted rigourous game testing, identifying and resolving and closing 50+ github tickets.\n - Updating seasonal pass/items for the game",
             "links": [
                 {
                     "text": "Playstore",
-                    "href": "https://play.google.com/store/apps/details?id=com.rubycs.balancetheball"
+                    "href": "https://play.google.com/store/apps/details?id=com.equusports.equestriad&hl=en"
                 }
             ],
             "tags": [
-                "Cocos2dx",
-                "Cpp",
-                "Android"
+                "Unity",
+                "C#",
+                "Playfab"
             ]
         },
         {
-            "image": "images/projects/reverse-bird-gif.gif",
-            "title": "Inverted Flappy Bird",
-            "bodyText": "- Flappy Bird X TENET ?? \n - Just a Flappy Bird clone or something more.",
+            "image": "images/projects/bus-escape-gif.gif",
+            "title": "Jam Escape",
+            "bodyText": "- JamEscape is a vibrant and addictive logic-based puzzle game that challenges players to guide buses out of gridlocked parking lots. This project was build for the gaming portal PlayzHub.\n - Roles:\n - Developed the core gameplay logic according to GDD.\n - Polished and refined controls for better gameplay experience.\n - Done unit testing.\n - Added code for PlayzHub platform analytics.",
             "links": [
                 {
-                    "text": "Itch.io",
-                    "href": "https://souvik-2000.itch.io/reverse-flying-bird"
-                }
-            ],
-            "tags": [
-                "Cocos2dx",
-                "Cpp",
-                "Android Studio"
-            ]
-        },
-        {
-            "image": "images/projects/clones-gif.gif",
-            "title": "Clones",
-            "bodyText": "- Clones of popular games made with Unity.",
-            "links": [
-                {
-                    "text": "Asteroids GitHub",
-                    "href": "https://github.com/Souvik61/Asteroids-Clone"
-                },
-                {
-                    "text": "Asteroids Itch.io",
-                    "href": "https://souvik-2000.itch.io/asteroids-clone"
-                },
-                {
-                    "text": "Breakout GitHub",
-                    "href": "https://github.com/Souvik61/Breakout_Clone"
-                },
-                {
-                    "text": "Breakout Itch.io",
-                    "href": "https://souvik-2000.itch.io/breakout-clone"
-                },
-                {
-                    "text": "Pong GitHub",
-                    "href": "https://github.com/Souvik61/PONG-Clone"
+                    "text": "Link",
+                    "href": "https://www.playzhub.com/game/Jam-Escape"
                 }
             ],
             "tags": [
@@ -139,23 +32,19 @@
             ]
         },
         {
-            "image": "images/projects/pic06.jpg",
-            "title": "Miscellaneous",
-            "bodyText": "- Various programming projects and tools i have made.",
+            "image": "images/projects/matchitright-gif.gif",
+            "title": "Match It Right",
+            "bodyText": "- Match it Right is a fun and colorful match-3 puzzle game where you clean up a messy house by matching three identical items. With useful boosters, limited space, and a ticking clock, it's a fast-paced challenge perfect for players 16 and up.\n - This project was build for the gaming portal PlayzHub.\n - Roles:\n - Developed the game from scratch.\n - Did all the unit tests.\n - Used addressables to reduce initial load times.",
             "links": [
                 {
-                    "text": "Booth's algorithm visualizer",
-                    "href": "https://github.com/Souvik61/booth-s-algo-visualization-in-cmd"
-                },
-                {
-                    "text": "A port for box2d in cocos2d-x",
-                    "href": "https://github.com/Souvik61/NewProject_5"
+                    "text": "Link",
+                    "href": "https://www.playzhub.com/game/Match-It-Right"
                 }
             ],
             "tags": [
-                "Python",
-                "Cocos2dx",
-                "C++"
+                "Unity",
+                "C#",
+                "Addressables"
             ]
         }
     ]
